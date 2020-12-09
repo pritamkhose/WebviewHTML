@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        edit_url.setText("https://pritam-react.web.app");
+        edit_url.setText("https://www.google.com/");
         loadPage();
 
     }
